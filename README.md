@@ -1,4 +1,4 @@
-# Hi, I'm neg 👋
+# Hello, I'm negin 👋
 
 🎓 Computer Science student  
 🤖 Interested in Autonomous Intelligent Systems, AI, and Machine Learning  
